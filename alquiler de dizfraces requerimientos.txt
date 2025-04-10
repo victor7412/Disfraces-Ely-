@@ -1,0 +1,19 @@
+una base de datos con los datos de los clientes
+numero de cliente(victor)
+nombre
+dirección 
+dni
+celular
+cantidad de veces que alquilo(victor)
+
+una base de datos con las prendas
+numero de caja 
+numero de estantería
+
+
+alquiler
+fecha de alquiler 
+fecha de devolución
+dia del acto
+lista con las prendas alquiladas
+

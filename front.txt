@@ -1,0 +1,5 @@
+que se pueda elegir en un formulario el cliente
+que se pueda registrar un cliente nuevo
+que se pueda borrar un cliente nuevo
+que se pueda hacer un nuevo alquiler 
+que despliege una ventana y se pueda buscar al cliente por dni o nombre
