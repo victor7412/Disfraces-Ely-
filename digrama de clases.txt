@@ -1,0 +1,60 @@
+Prendas:
+
+    atributos:
+
+.nombre
+.descripción(string)
+.talle(int)
+.numero de caja(int)
+.numero de estantería(int)
+
+    Métodos:
+
+.buscar prenda(nombre)
+.
+
+Clientes:
+    
+    Atributos:
+
+.nombre
+.DNI(int)
+.dirección
+.numero de celular(int)
+.cantidad de veces que alquilo(int)
+
+
+      Métodos:
+
+.incrementar numero alquiler
+.editar numero celular
+.editar dirección
+
+
+
+
+Pedido:
+
+     Atributo:
+
+.precio(int)
+.seña(int)
+.Cliente(string)
+.numero de pedido(int)
+.fecha de alquiler (data)
+.fecha de devolución(data)
+.día del acto(data)
+.lista con las prendas alquiladas [string]
+.si ya pago(boolean)
+.si ya seño(boolean)
+.si ya retiro(boolean)
+.si ya entrego(boolean)
+.si tiene una excepción(persona de confianza)(boolean)
+    
+     Método:
+
+
+
+
+
+
